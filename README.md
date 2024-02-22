@@ -10,15 +10,15 @@ Yile Wang, Wanqiao Ding, Bangjie Wang
 ### Topics from Differential Equation
 |Status | Concepts | Comments | Sources |
 | :---: | :---: | :---: | :---: | 
-|\x| First-order Equation| | |
+|❌| First-order Equation| | |
 
 ### Topics from Linear Algebra
 |Status | Concepts | Comments | Sources |
 | :---: | :---: | :---: | :---: | 
-|\check| Jordan Matrix| | |
+|✅| Jordan Matrix| | |
 
 
 ### Topics from Probability Theory
 |Status | Concepts | Comments | Sources |
 | :---: | :---: | :---: | :---: | 
-|\check| Probability Density Function| | |
+|:x:| Probability Density Function| | |
