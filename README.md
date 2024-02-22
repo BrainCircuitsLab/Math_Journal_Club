@@ -8,17 +8,16 @@ Current Members:
 Yile Wang, Wanqiao Ding, Bangjie Wang
 
 ### Topics from Differential Equation
-|Status | Concepts | Comments | Sources |
-| :---: | :---: | :---: | :---: | 
-|❌| First-order Equation| | |
+|Index |Status | Concepts | Comments | Sources |
+| :---: | :---: | :---: | :---: | :---: | 
+| 1 |❌| First-order Equation| | |
 
 ### Topics from Linear Algebra
-|Status | Concepts | Comments | Sources |
-| :---: | :---: | :---: | :---: | 
-|✅| Jordan Matrix| | |
-
+|Index |Status | Concepts | Comments | Sources |
+| :---: | :---: | :---: | :---: | :---: | 
+| 1 |❌| Jordan Matrix| | |
 
 ### Topics from Probability Theory
-|Status | Concepts | Comments | Sources |
-| :---: | :---: | :---: | :---: | 
-|:x:| Probability Density Function| | |
+|Index |Status | Concepts | Comments | Sources |
+| :---: | :---: | :---: | :---: | :---: | 
+| 1 |❌| Probability Density Function| | |
